@@ -1,1 +1,4 @@
 
+[submodule "eguilg"]
+	path = maupassant-hexo
+	url = https://github.com/eguilg/maupassant-hexo.git
