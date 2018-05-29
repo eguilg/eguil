@@ -3,6 +3,9 @@ title: Coursera机器学习讲义（一）：引言
 date: 2017-01-14 20:18:32
 tags: [机器学习,Coursera]
 categories: [Coursera机器学习讲义]
+description: 什么是机器学习，以及机器学习的种类。
+mathjax: true
+toc: true
 ---
 
 ## 什么是机器学习

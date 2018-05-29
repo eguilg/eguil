@@ -3,6 +3,9 @@ title: Coursera机器学习讲义（二）：单元线性回归
 date: 2017-01-14 21:44:32
 tags: [线性回归,梯度下降,机器学习,Coursera]
 categories: [Coursera机器学习讲义]
+description: 介绍了线性回归的基本单元，即高中所学的“最小二乘法”
+mathjax: true
+toc: true
 ---
 
 ## 问题定义
